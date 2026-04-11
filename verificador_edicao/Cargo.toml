@@ -1,0 +1,6 @@
+[package]
+name = "verificador_edicao"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
